@@ -1,0 +1,17 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+.center-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 95vh;
+    padding: 0% 2%;
+  }
+
+  p{
+    margin: auto;
+  }
